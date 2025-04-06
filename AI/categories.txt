@@ -1,0 +1,1 @@
+Food,Misc,Devices,Games,Transfer,Shop,Taxi,Transport,Mobile,Med,Deposit,Withdraw,Bank,Tax,Supermarket,UrbanService,Internet,Digital,Fastfood,Delivery,Marketplace,Clothes
